@@ -1,0 +1,7 @@
+{
+  "name": "MeetingMind",
+  "description": "AI-powered meeting recorder and notes generator that transcribes audio and creates professional business summaries.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
